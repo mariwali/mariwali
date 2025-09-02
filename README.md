@@ -1,4 +1,4 @@
 ## 🪸 Mariana
 
-Currently learning Data Analysis and programming languages.
+Postdoctoral researcher in History of Science. Currently learning Data Analysis and programming languages.
 
